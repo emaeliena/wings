@@ -1,0 +1,16 @@
+<html ng-app="wingsApp">
+	<head>
+		<title>Wings of War</title>
+		<script type="text/javascript" src="fabric.min.js"></script>
+		<script type="text/javascript" src="jquery.js"></script>
+		<script type="text/javascript" src="angular.js"></script>
+		<script type="text/javascript" src="wingsapp.js"></script>
+	</head>
+	<body ng-controller="WingsCtrl">
+		<canvas id="c"></canvas>
+		<label>X: <input type="text" ng-model="activeCard.x"></label>
+		<label>Y: <input type="text" ng-model="activeCard.y"></label>
+		<label>Angle: <input type="text" ng-model="activeCard.angle"></label>
+		<button id="apply">Apply</button>
+	</body>
+</html>
