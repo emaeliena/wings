@@ -1,0 +1,33 @@
+---
+- name: Sopwith Camel
+  army: Aviation Militaire
+  unit: 9me Escadrille de Chasse
+  pilot: Lieutenant Jan Olieslagers
+  maneuvers: C
+  damage: A
+  health: 15
+  code: 14/22
+- name: Sopwith Triplane
+  army: Royal Naval Air Service
+  unit: 8 Naval
+  pilot: Captain Robert Alexander Little
+  maneuvers: D
+  damage: B
+  health: 13
+  code: 21/22
+- name: Sopwith Camel
+  army: Luftsteitskrafte
+  unit: Jasta 23
+  pilot: Oberleutnant Otto Kissenberth
+  maneuvers: C
+  damage: A
+  health: 15
+  code: 10/22
+- name: Fokker dr. I
+  army: Luftsteitskrafte
+  unit: Jasta 11
+  pilot: Rittmeister Manfred von Richthofen
+  maneuvers: D
+  damage: A
+  health: 13
+  code: 15/22

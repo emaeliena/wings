@@ -1,0 +1,52 @@
+---
+ class: deck
+ name: C
+ cards:
+  - code: C1/20
+    x: 0
+    y: 100
+    angle: 0
+    variant: straight
+    hard: no
+  - code: C5/20
+    x: 50
+    y: 50
+    angle: 90
+    variant: right
+    hard: no
+  - code: C7/20
+    x: 50
+    y: 100
+    angle: 60
+    variant: right
+    hard: no
+  - code: C12/20
+    x: -50
+    y: 100
+    angle: -60
+    variant: left
+    hard: no
+  - code: C14/20
+    x: 0
+    y: 250
+    angle: 0
+    variant: straight
+    hard: yes
+  - code: C15/20
+    x: 0
+    y: 100
+    angle: 180
+    variant: immelman
+    hard: no
+  - code: C17/20
+    x: 50
+    y: 100
+    angle: 0
+    variant: right
+    hard: no
+  - code: C19/20
+    x: -50
+    y: 100
+    angle: 0
+    variant: left
+    hard: no
